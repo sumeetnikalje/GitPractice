@@ -20,3 +20,4 @@ added 10
 ::
 example of restaged
 
+stash example
