@@ -2,4 +2,6 @@ this is sample file for GIT check in
 k
 this is updated file
 added changes for amend commit
+
+added changes for commit 2
 :
