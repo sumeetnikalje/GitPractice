@@ -10,4 +10,7 @@ addded changes for commit 3
 added changes for commit 4
 added changes for commit 5 
 
-:
+added 6 
+added 7
+added 8
+::
