@@ -1,1 +1,3 @@
-i is sample2 file psuhed into feature branch 
+i is sample2 file psuhed into feature branch
+updated sample2 file
+ 
