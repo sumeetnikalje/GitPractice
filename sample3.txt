@@ -1,1 +1,2 @@
- this is sample 3 file added
+ 
+this is sample3 text 
