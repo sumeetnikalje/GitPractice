@@ -1,3 +1,5 @@
+this is reset exmaple
+
 <<<<<<< HEAD
 this is sample 1 file created for stash
 diff  
