@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 this is sample 1 file created for stash
 diff  
+=======
+this is sample 1 file created for stash 
+updated sample1 
+>>>>>>> feature
